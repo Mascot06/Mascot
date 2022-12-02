@@ -1,0 +1,2 @@
+# Mascot
+General collections
